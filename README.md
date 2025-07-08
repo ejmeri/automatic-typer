@@ -2,6 +2,9 @@
 
 Simule digitação automática em arquivos do VSCode, caractere por caractere, com controle de início e parada.
 
+
+![Logo do Projeto](icon.png)
+
 ---
 
 ## ✨ Funcionalidades
@@ -26,7 +29,7 @@ Simule digitação automática em arquivos do VSCode, caractere por caractere, c
 
 ## 🛠 Comandos disponíveis
 
-| Comando              | Descrição                             |
-| -------------------- | ------------------------------------- |
+| Comando                      | Descrição                              |
+| ---------------------------- | ---------------------------------------- |
 | `Automatic Typer: Iniciar` | Inicia o loop de digitação automática |
-| `Automatic Typer: Parar`   | Interrompe imediatamente a digitação  |
+| `Automatic Typer: Parar`   | Interrompe imediatamente a digitação   |
