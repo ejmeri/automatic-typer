@@ -2,7 +2,10 @@
     "name": "automatic-typer",
     "displayName": "Automatic Typer",
     "description": "Extensão que digita automaticamente um texto no editor, caractere por caractere.",
-    "version": "0.0.1-test-delay",
+    "repository": {
+        "url": "https://github.com/ejmeri/automatic-typer"
+    },
+    "version": "0.0.6",
     "publisher": "ejmeri",
     "icon": "icon.png",
     "engines": {

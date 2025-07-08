@@ -2,9 +2,6 @@
 
 Simule digitação automática em arquivos do VSCode, caractere por caractere, com controle de início e parada.
 
-
-![Logo do Projeto](icon.png)
-
 ---
 
 ## ✨ Funcionalidades
